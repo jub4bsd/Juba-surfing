@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "password": "Galaxy-Network",
+            "password": "Kira-Tech",
             "level": 0
           }
         ]
@@ -14,7 +14,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/@L_ornz"
+          "path": "/Juba"
         }
       }
     }
