@@ -24,6 +24,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: juba4cdx/riyuke4surfing:latest
+          tags: juba4cdx/juba-surfing:latest
 
           
